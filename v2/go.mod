@@ -45,6 +45,4 @@ replace (
 	golang.org/x/text => golang.org/x/text v0.3.3
 )
 
-replace github.com/chainreactors/rem => /mnt/chainreactors/rem
-
 replace golang.org/x/sync => golang.org/x/sync v0.0.0-20200317015054-43a5402ce75a

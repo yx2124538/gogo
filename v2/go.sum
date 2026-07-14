@@ -83,6 +83,8 @@ github.com/chainreactors/neutron v0.1.1-0.20260714062907-716c6b167cb6 h1:apEDnJe
 github.com/chainreactors/neutron v0.1.1-0.20260714062907-716c6b167cb6/go.mod h1:zok/CDxut71iw8NQTHKPvy0f+1G5639zr9GgDsXGnOs=
 github.com/chainreactors/proxyclient v1.1.1-0.20260714062913-bce898a8f790 h1:We2R3rJUQBI6GGmA2kM3IOK+yvPn5NsXHhpbKiVsPE0=
 github.com/chainreactors/proxyclient v1.1.1-0.20260714062913-bce898a8f790/go.mod h1:m0kmv5rgzac2q3HMYBlQULc+mubGILrPx1IiPQWcQHc=
+github.com/chainreactors/rem v0.3.0 h1:2+vzTIjeeOoIYhC+t5uNWC1q8IA6nqbJ1caept5yOq4=
+github.com/chainreactors/rem v0.3.0/go.mod h1:Oxh6/IrsOG+i6o8Zf6cDMofE8sYr/yDu4bs3yVSINlY=
 github.com/chainreactors/utils v0.0.0-20260711153742-f3d210a5fa9d h1:wlJ6oMbVLKrpxHmaXGSxmJt1F8l3kvqily0N58FGfLM=
 github.com/chainreactors/utils v0.0.0-20260711153742-f3d210a5fa9d/go.mod h1:xwbUlFoSSxLHujyb8D48o1s2DqmEAxUNfxIy0DVUmcg=
 github.com/chainreactors/utils/parsers v0.0.3 h1:3ld7xG5TSvzikVOCkQHjqjHO3otjODwSwHQDkMKbu5o=
